@@ -1,0 +1,60 @@
+<item>
+  <field name="latitude">33596.7704</field>
+  <field name="longitude">-86101.0833</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33596.7704 -86101.0833)</field>
+</item>
+<item>
+  <field name="latitude">33580.1041</field>
+  <field name="longitude">-86186.9192</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33580.1041 -86186.9192)</field>
+</item>
+<item>
+  <field name="latitude">33513.9949</field>
+  <field name="longitude">-86057.7482</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33513.9949 -86057.7482)</field>
+</item>
+<item>
+  <field name="latitude">33458.1632</field>
+  <field name="longitude">-86088.86</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33458.1632 -86088.86)</field>
+</item>
+<item>
+  <field name="latitude">33435.9416</field>
+  <field name="longitude">-86105.8048</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33435.9416 -86105.8048)</field>
+</item>
+<item>
+  <field name="latitude">33783.4324</field>
+  <field name="longitude">-86002.4703</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33783.4324 -86002.4703)</field>
+</item>
+<item>
+  <field name="latitude">33591.7715</field>
+  <field name="longitude">-85897.1885</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33591.7715 -85897.1885)</field>
+</item>
+<item>
+  <field name="latitude">33604.8269</field>
+  <field name="longitude">-85868.0212</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33604.8269 -85868.0212)</field>
+</item>
+<item>
+  <field name="latitude">33334.0004</field>
+  <field name="longitude">-86077.1923</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33334.0004 -86077.1923)</field>
+</item>
+<item>
+  <field name="latitude">33863.9876</field>
+  <field name="longitude">-85984.6926</field>
+  <field name="class">customer</field>
+  <field name="geometry">POINT (33863.9876 -85984.69259999999)</field>
+</item>
