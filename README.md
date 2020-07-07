@@ -29,3 +29,26 @@ Launch with:
 ### Running in a remote installation
 
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
+
+## Requirements
+
+Python 3+, python-pip, virtualenv
+
+## Installation
+
+Create a virtualenv, and activate this:
+
+    $ virtualenv env
+    $ source env/bin/activate
+
+After, install all necessary to run:
+
+    $ pip install -r requirements.txt
+
+Than, run the application:
+
+    $ python run.py
+
+To see your application, access this url in your browser:
+
+    http://localhost:5000
